@@ -1,2 +1,31 @@
+# Ignore compiled binaries
 *.exe
-.vscode
+*.obj
+*.o
+*.out
+
+# Ignore build folders
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE-specific files (Visual Studio, Code::Blocks, etc.)
+.vscode/
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+desktop.ini
