@@ -1,0 +1,14 @@
+1. While Loop or While-Do Loop Questions
+Reverse A given Number
+Find Number Is Armstrong Or Not
+Calculate the Sum of Natural Numbers
+Display Fibonacci Series
+Find the LCM of two Numbers
+Reverse a Number
+Check Whether a Number is A Palindrome or Not
+Count the Number of Digits of an Integer
+Find A Generic Root Of the Number
+Print A Calendar Taking Input From User Using Loop
+Denomination of an Amount
+2. Do-While Loop Questions
+Solve the above program using Do-While Loop
