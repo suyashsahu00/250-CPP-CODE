@@ -19,8 +19,8 @@ int main()
         // Loop to count digits
         while (num != 0)
         {
-            digitCount++;      // 1 | 2 | 3
-            num = num / 10;    // 12 | 1 | 0
+            digitCount++;   // 1 | 2 | 3
+            num = num / 10; // 12 | 1 | 0
         }
     }
 
