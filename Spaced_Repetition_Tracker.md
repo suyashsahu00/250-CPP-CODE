@@ -76,6 +76,8 @@
 | Palindrome Number Checker | To Review | **ASAP** | 1 Day | Reverse + compare original |
 | Count Digits of Integer | To Review | **ASAP** | 1 Day | Divide by 10 until 0 |
 | Generic Root Finder | To Review | **ASAP** | 1 Day | ⚠️ Repeated digit sum until single digit |
+| Number Divisible by 11 (VEDIC MATH) | To Review | **ASAP** | 1 Day | Vedic math alternating digit sum |
+| Denomination of an Amount | To Review | **ASAP** | 1 Day | Greedy algorithm with loop |
 
 ---
 
@@ -91,8 +93,6 @@
 
 | Problem Name | Section | Notes |
 | :--- | :--- | :--- |
-| Number Divisible by 11 (VEDIC MATH) | While Loop | Next up! |
-| Denomination of an Amount | While Loop | Next up! |
 | Do-While Loop programs | Do-While | Convert while-loop solutions |
 | Sort Float Array | For Loop | Sort in Asc + Desc |
 | GCD using For Loop | For Loop | |

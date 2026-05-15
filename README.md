@@ -10,7 +10,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | :--- | :---: | :---: | :--- |
 | **1. Simple C++ Basics** | 12 | 12 | ██████████ 100% ✅ |
 | **2. Control Flow (If-Else)** | 28 | 28 | ██████████ 100% ✅ |
-| **3. Looping Constructs** | 10 | 15 | ██████░░░░ 67% 🔄 |
+| **3. Looping Constructs** | 12 | 15 | ████████░░ 80% 🔄 |
 | **4. Switch Case** | 0 | 12 | ░░░░░░░░░░ 0% ❌ |
 | **5. Array Questions** | 0 | 24 | ░░░░░░░░░░ 0% ❌ |
 | **6. Matrix Questions** | 0 | 18 | ░░░░░░░░░░ 0% ❌ |
@@ -23,7 +23,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **13. Searching Algorithms** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 | **15. Puzzles** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 
-**🎯 Overall Progress: `50 / 237` — 21% Complete**
+**🎯 Overall Progress: `52 / 237` — 22% Complete**
 
 ---
 
@@ -81,9 +81,9 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 
 ---
 
-### 📂 3. Loops — `10/15` 🔄 IN PROGRESS
+### 📂 3. Loops — `12/15` 🔄 IN PROGRESS
 
-#### While Loop `9/11`
+#### While Loop `11/11`
 | # | Problem | Status |
 | :---: | :--- | :---: |
 | 1 | [Reverse a Given Number](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Reverse_A_Given_Number.cpp) | ✅ |
@@ -95,8 +95,8 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | 7 | [Palindrome Number Checker](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Check_Whether_a_Number_is_A_Palindrome_or_Not.cpp) | ✅ |
 | 8 | [Count Digits of an Integer](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Count_the_Number_of_Digits_of_an_Integer.cpp) | ✅ |
 | 9 | [Generic Root Finder](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Find_A_Generic_Root_Of_the_Number.cpp) | ✅ |
-| 10 | Number Divisible by 11 (VEDIC MATH) | ❌ |
-| 11 | Denomination of an Amount | ❌ |
+| 10 | [Number Divisible by 11 (VEDIC MATH)](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Number_Is_Divisible_By_11_Using_VEDIC_MATH.cpp) | ✅ |
+| 11 | [Denomination of an Amount](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Denomination_of_an_Amount.cpp) | ✅ |
 
 #### Do-While Loop `0/1`
 | # | Problem | Status |
