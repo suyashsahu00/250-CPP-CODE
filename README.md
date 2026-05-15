@@ -10,7 +10,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | :--- | :---: | :---: | :--- |
 | **1. Simple C++ Basics** | 12 | 12 | ██████████ 100% ✅ |
 | **2. Control Flow (If-Else)** | 28 | 28 | ██████████ 100% ✅ |
-| **3. Looping Constructs** | 12 | 15 | ████████░░ 80% 🔄 |
+| **3. Looping Constructs** | 13 | 15 | █████████░ 86% 🔄 |
 | **4. Switch Case** | 0 | 12 | ░░░░░░░░░░ 0% ❌ |
 | **5. Array Questions** | 0 | 24 | ░░░░░░░░░░ 0% ❌ |
 | **6. Matrix Questions** | 0 | 18 | ░░░░░░░░░░ 0% ❌ |
@@ -23,7 +23,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **13. Searching Algorithms** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 | **15. Puzzles** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 
-**🎯 Overall Progress: `52 / 237` — 22% Complete**
+**🎯 Overall Progress: `53 / 237` — 22% Complete**
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 
 ---
 
-### 📂 3. Loops — `12/15` 🔄 IN PROGRESS
+### 📂 3. Loops — `13/15` 🔄 IN PROGRESS
 
 #### While Loop `11/11`
 | # | Problem | Status |
@@ -98,10 +98,10 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | 10 | [Number Divisible by 11 (VEDIC MATH)](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Number_Is_Divisible_By_11_Using_VEDIC_MATH.cpp) | ✅ |
 | 11 | [Denomination of an Amount](./3.Loops/1.%20While%20Loop%20or%20While-Do%20Loop%20Questions/Denomination_of_an_Amount.cpp) | ✅ |
 
-#### Do-While Loop `0/1`
+#### Do-While Loop `1/1`
 | # | Problem | Status |
 | :---: | :--- | :---: |
-| 1 | Solve above programs using Do-While | ❌ |
+| 1 | Solve above programs using Do-While | ✅ |
 
 #### For Loop `1/3`
 | # | Problem | Status |

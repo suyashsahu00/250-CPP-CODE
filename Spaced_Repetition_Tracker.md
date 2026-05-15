@@ -81,6 +81,14 @@
 
 ---
 
+## 📂 Loops — Do-While Loop
+
+| Problem Name | Last Reviewed | Next Review | Interval | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Do-While Loop conversions | To Review | **ASAP** | 1 Day | Converted all 11 while loops |
+
+---
+
 ## 📂 Loops — For Loop
 
 | Problem Name | Last Reviewed | Next Review | Interval | Status / Notes |
@@ -93,7 +101,6 @@
 
 | Problem Name | Section | Notes |
 | :--- | :--- | :--- |
-| Do-While Loop programs | Do-While | Convert while-loop solutions |
 | Sort Float Array | For Loop | Sort in Asc + Desc |
 | GCD using For Loop | For Loop | |
 | *(All Switch Case problems)* | Switch | 12 problems |
