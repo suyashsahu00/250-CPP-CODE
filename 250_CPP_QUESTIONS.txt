@@ -56,15 +56,15 @@ Simple C Questions
 ✅ Count_the_Number_of_Digits_of_an_Integer.cpp
 ✅ Find_A_Generic_Root_Of_the_Number.cpp
 ✅ Number_Is_Divisible_By_11_Using_(VEDIC_MATH).cpp
-❌ Denomination_of_an_Amount.cpp
+✅ Denomination_of_an_Amount.cpp
 
 2. Do-While Loop Questions
-❌ Solve_the_above_program_using_Do-While_Loop.cpp
+✅ Solve_the_above_program_using_Do-While_Loop.cpp
 
 3. For Loop Questions
 ✅ Generate_IP_(Internet_Protocol)_Addresses_Using.cpp
-❌ Sort_A_Float_Array_In_Ascending_And_Descending_Order_Using.cpp
-❌ Find_the_GCD_of_two_Numbers_Using.cpp
+✅ Sort_A_Float_Array_In_Ascending_And_Descending_Order_Using.cpp
+✅ Find_the_GCD_of_two_Numbers_Using.cpp
 
 4. Switch Case
 ❌ Temperature_Conversion_Celsius_To_Fahrenheit_And_Vice_Versa.cpp
