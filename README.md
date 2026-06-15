@@ -11,7 +11,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **1. Simple C++ Basics** | 12 | 12 | ██████████ 100% ✅ |
 | **2. Control Flow (If-Else)** | 28 | 28 | ██████████ 100% ✅ |
 | **3. Looping Constructs** | 13 | 15 | █████████░ 86% 🔄 |
-| **4. Switch Case** | 0 | 12 | ░░░░░░░░░░ 0% ❌ |
+| **4. Switch Case** | 2 | 12 | ██░░░░░░░░ 16% 🔄 |
 | **5. Array Questions** | 0 | 24 | ░░░░░░░░░░ 0% ❌ |
 | **6. Matrix Questions** | 0 | 18 | ░░░░░░░░░░ 0% ❌ |
 | **7. Strings (Basic)** | 0 | 16 | ░░░░░░░░░░ 0% ❌ |
@@ -23,7 +23,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **13. Searching Algorithms** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 | **15. Puzzles** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 
-**🎯 Overall Progress: `53 / 237` — 22% Complete**
+**🎯 Overall Progress: `55 / 237` — 23% Complete**
 
 ---
 
@@ -112,10 +112,18 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 
 ---
 
+### 📂 4. Switch Case — `2/12` 🔄 IN PROGRESS
+| # | Problem | Status |
+| :---: | :--- | :---: |
+| 1 | [Temperature Conversion](./4.%20Switch%20Case/Temperature_Conversion_Celsius_To_Fahrenheit_And_Vice_Versa.cpp) | ✅ |
+| 2 | [Find The Day](./4.%20Switch%20Case/Find_The_Day.cpp) | ✅ |
+
+---
+
 ## ⏳ Remaining Challenges
 
-### 4. Switch Case — `0/12` ❌
-> Temperature Conversion, Day Finder, Calculator, Grade Finder, Cylinder properties, Remove Vowels, Vowel/Consonant, Max of Two, Even/Odd, Pos/Neg/Zero, Quadratic Roots, Simple Calculator
+### 4. Switch Case — `2/12` 🔄 IN PROGRESS
+> Calculator, Grade Finder, Cylinder properties, Remove Vowels, Vowel/Consonant, Max of Two, Even/Odd, Pos/Neg/Zero, Quadratic Roots, Simple Calculator
 
 ### 5. Arrays — `0/24` ❌
 > Insertions, Deletions, Duplicates, Palindrome, Second Largest, Frequency Count, Merge, Rotate, Sort, etc.
