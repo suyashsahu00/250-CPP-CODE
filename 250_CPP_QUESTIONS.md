@@ -72,7 +72,7 @@
 4. Switch Case
 
 - [X] Temperature_Conversion_Celsius_To_Fahrenheit_And_Vice_Versa.cpp
-- [ ] Find_The_Day.cpp
+- [X] Find_The_Day.cpp
 - [ ] Calculator.cpp
 - [ ] Find_A_Grade_Of_Given_Marks_or_(Find_a_Grade_of_Given_Marks_Using_Switch_Case).cpp
 - [ ] Find_the_Radius,_Circumference_and_Volume_of_the_Cylinder.cpp
