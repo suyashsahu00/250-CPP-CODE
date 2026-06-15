@@ -10,7 +10,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | :--- | :---: | :---: | :--- |
 | **1. Simple C++ Basics** | 12 | 12 | ██████████ 100% ✅ |
 | **2. Control Flow (If-Else)** | 28 | 28 | ██████████ 100% ✅ |
-| **3. Looping Constructs** | 13 | 15 | █████████░ 86% 🔄 |
+| **3. Looping Constructs** | 15 | 15 | ██████████ 100% ✅ |
 | **4. Switch Case** | 2 | 12 | ██░░░░░░░░ 16% 🔄 |
 | **5. Array Questions** | 0 | 24 | ░░░░░░░░░░ 0% ❌ |
 | **6. Matrix Questions** | 0 | 18 | ░░░░░░░░░░ 0% ❌ |
@@ -23,7 +23,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **13. Searching Algorithms** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 | **15. Puzzles** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 
-**🎯 Overall Progress: `55 / 237` — 23% Complete**
+**🎯 Overall Progress: `57 / 237` — 24% Complete**
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 
 ---
 
-### 📂 3. Loops — `13/15` 🔄 IN PROGRESS
+### 📂 3. Loops — `15/15` ✅ COMPLETE
 
 #### While Loop `11/11`
 | # | Problem | Status |
@@ -103,12 +103,12 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | :---: | :--- | :---: |
 | 1 | Solve above programs using Do-While | ✅ |
 
-#### For Loop `1/3`
+#### For Loop `3/3`
 | # | Problem | Status |
 | :---: | :--- | :---: |
 | 1 | [IP Address Generator](./3.Loops/3.%20For%20Loop%20Questions/Generate_IP_Addresses_Using_For_Loop.cpp) | ✅ |
-| 2 | Sort Float Array (Asc/Desc) | ❌ |
-| 3 | GCD of Two Numbers using For | ❌ |
+| 2 | [Sort Float Array (Asc/Desc)](./3.Loops/3.%20For%20Loop%20Questions/Sort_A_Float_Array_In_Ascending_And_Descending_Order_Using.cpp) | ✅ |
+| 3 | [GCD of Two Numbers using For](./3.Loops/3.%20For%20Loop%20Questions/Find_the_GCD_of_two_Numbers_Using.cpp) | ✅ |
 
 ---
 
