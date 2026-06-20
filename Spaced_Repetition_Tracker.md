@@ -97,13 +97,25 @@
 
 ---
 
+## 📂 Switch Case
+
+| Problem Name | Last Reviewed | Next Review | Interval | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Temperature Conversion | To Review | **ASAP** | 1 Day | Celsius ↔ Fahrenheit using switch |
+| Find The Day | To Review | **ASAP** | 1 Day | Day number to day name conversion |
+| Calculator | To Review | **ASAP** | 1 Day | Basic arithmetic (+, -, *, /) using switch |
+| Grade Finder | To Review | **ASAP** | 1 Day | Find grade of marks using switch case |
+| Cylinder properties | To Review | **ASAP** | 1 Day | Find radius, circumference, and volume |
+
+---
+
 ## ⏳ Pending — Not Yet Solved (Add as you complete them)
 
 | Problem Name | Section | Notes |
 | :--- | :--- | :--- |
 | Sort Float Array | For Loop | Sort in Asc + Desc |
 | GCD using For Loop | For Loop | |
-| *(All Switch Case problems)* | Switch | 12 problems |
+| *(Remaining Switch Case problems)* | Switch | 7 problems |
 | *(All Array problems)* | Arrays | 24 problems |
 | *(All Matrix problems)* | Matrices | 18 problems |
 | *(All String problems)* | Strings | 41 problems |

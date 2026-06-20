@@ -11,7 +11,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **1. Simple C++ Basics** | 12 | 12 | ██████████ 100% ✅ |
 | **2. Control Flow (If-Else)** | 28 | 28 | ██████████ 100% ✅ |
 | **3. Looping Constructs** | 15 | 15 | ██████████ 100% ✅ |
-| **4. Switch Case** | 2 | 12 | ██░░░░░░░░ 16% 🔄 |
+| **4. Switch Case** | 5 | 12 | ████░░░░░░ 42% 🔄 |
 | **5. Array Questions** | 0 | 24 | ░░░░░░░░░░ 0% ❌ |
 | **6. Matrix Questions** | 0 | 18 | ░░░░░░░░░░ 0% ❌ |
 | **7. Strings (Basic)** | 0 | 16 | ░░░░░░░░░░ 0% ❌ |
@@ -23,7 +23,7 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 | **13. Searching Algorithms** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 | **15. Puzzles** | 0 | 3 | ░░░░░░░░░░ 0% ❌ |
 
-**🎯 Overall Progress: `57 / 237` — 24% Complete**
+**🎯 Overall Progress: `60 / 237` — 25% Complete**
 
 ---
 
@@ -112,18 +112,21 @@ Welcome to the ultimate repository for C++ mastery! This project tracks the jour
 
 ---
 
-### 📂 4. Switch Case — `2/12` 🔄 IN PROGRESS
+### 📂 4. Switch Case — `5/12` 🔄 IN PROGRESS
 | # | Problem | Status |
 | :---: | :--- | :---: |
 | 1 | [Temperature Conversion](./4.%20Switch%20Case/Temperature_Conversion_Celsius_To_Fahrenheit_And_Vice_Versa.cpp) | ✅ |
 | 2 | [Find The Day](./4.%20Switch%20Case/Find_The_Day.cpp) | ✅ |
+| 3 | [Calculator](./4.%20Switch%20Case/Calculator.cpp) | ✅ |
+| 4 | [Grade Finder](./4.%20Switch%20Case/Find_A_Grade_Of_Given_Marks_or_Find_a_Grade_of_Given_Marks_Using_Switch_Case.cpp) | ✅ |
+| 5 | [Cylinder Properties](./4.%20Switch%20Case/Find_the_Radius,_Circumference_and_Volume_of_the_Cylinder.cpp) | ✅ |
 
 ---
 
 ## ⏳ Remaining Challenges
 
-### 4. Switch Case — `2/12` 🔄 IN PROGRESS
-> Calculator, Grade Finder, Cylinder properties, Remove Vowels, Vowel/Consonant, Max of Two, Even/Odd, Pos/Neg/Zero, Quadratic Roots, Simple Calculator
+### 4. Switch Case — `5/12` 🔄 IN PROGRESS
+> Remove Vowels, Vowel/Consonant, Max of Two, Even/Odd, Pos/Neg/Zero, Quadratic Roots
 
 ### 5. Arrays — `0/24` ❌
 > Insertions, Deletions, Duplicates, Palindrome, Second Largest, Frequency Count, Merge, Rotate, Sort, etc.
