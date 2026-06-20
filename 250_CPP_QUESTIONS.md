@@ -1,4 +1,4 @@
-﻿Simple C Questions
+Simple C Questions
 
 - [X] Area_and_Circumference_of_a_Circle.cpp
 - [X] Area_of_Triangle.cpp
@@ -73,9 +73,9 @@
 
 - [X] Temperature_Conversion_Celsius_To_Fahrenheit_And_Vice_Versa.cpp
 - [X] Find_The_Day.cpp
-- [ ] Calculator.cpp
-- [ ] Find_A_Grade_Of_Given_Marks_or_(Find_a_Grade_of_Given_Marks_Using_Switch_Case).cpp
-- [ ] Find_the_Radius,_Circumference_and_Volume_of_the_Cylinder.cpp
+- [X] Calculator.cpp
+- [X] Find_A_Grade_Of_Given_Marks_or_(Find_a_Grade_of_Given_Marks_Using_Switch_Case).cpp
+- [X] Find_the_Radius,_Circumference_and_Volume_of_the_Cylinder.cpp
 - [ ] Remove_All_Vowels_From_A_String.cpp
 - [ ] Check_whether_an_alphabet_is_a_vowel_or_consonant_using_a_switch_case.cpp
 - [ ] Find_the_maximum_between_two_numbers_using_the_switch_case.cpp
