@@ -76,7 +76,7 @@ Simple C Questions
 - [X] Calculator.cpp
 - [X] Find_A_Grade_Of_Given_Marks_or_(Find_a_Grade_of_Given_Marks_Using_Switch_Case).cpp
 - [X] Find_the_Radius,_Circumference_and_Volume_of_the_Cylinder.cpp
-- [ ] Remove_All_Vowels_From_A_String.cpp
+- [X] Remove_All_Vowels_From_A_String.cpp
 - [ ] Check_whether_an_alphabet_is_a_vowel_or_consonant_using_a_switch_case.cpp
 - [ ] Find_the_maximum_between_two_numbers_using_the_switch_case.cpp
 - [ ] Check_whether_a_number_is_even_or_odd_using_a_switch_case.cpp

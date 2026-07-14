@@ -106,6 +106,7 @@
 | Calculator | To Review | **ASAP** | 1 Day | Basic arithmetic (+, -, *, /) using switch |
 | Grade Finder | To Review | **ASAP** | 1 Day | Find grade of marks using switch case |
 | Cylinder properties | To Review | **ASAP** | 1 Day | Find radius, circumference, and volume |
+| Remove All Vowels From A String | To Review | **ASAP** | 1 Day | Remove vowels using switch-case |
 
 ---
 
@@ -115,7 +116,7 @@
 | :--- | :--- | :--- |
 | Sort Float Array | For Loop | Sort in Asc + Desc |
 | GCD using For Loop | For Loop | |
-| *(Remaining Switch Case problems)* | Switch | 7 problems |
+| *(Remaining Switch Case problems)* | Switch | 6 problems |
 | *(All Array problems)* | Arrays | 24 problems |
 | *(All Matrix problems)* | Matrices | 18 problems |
 | *(All String problems)* | Strings | 41 problems |
