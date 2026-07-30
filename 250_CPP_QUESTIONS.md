@@ -78,11 +78,11 @@ Simple C Questions
 - [X] Find_the_Radius,_Circumference_and_Volume_of_the_Cylinder.cpp
 - [X] Remove_All_Vowels_From_A_String.cpp
 - [X] Check_whether_an_alphabet_is_a_vowel_or_consonant_using_a_switch_case.cpp
-- [ ] Find_the_maximum_between_two_numbers_using_the_switch_case.cpp
-- [ ] Check_whether_a_number_is_even_or_odd_using_a_switch_case.cpp
-- [ ] Check_whether_a_number_is_positive,_negative_or_zero_using_a_switch_case.cpp
-- [ ] Find_the_roots_of_a_quadratic_equation_using_a_switch_case.cpp
-- [ ] Create_a_Simple_Calculator_using_a_switch_case.cpp
+- [X] Find_the_maximum_between_two_numbers_using_the_switch_case.cpp
+- [X] Check_whether_a_number_is_even_or_odd_using_a_switch_case.cpp
+- [X] Check_whether_a_number_is_positive,_negative_or_zero_using_a_switch_case.cpp
+- [X] Find_the_roots_of_a_quadratic_equation_using_a_switch_case.cpp
+- [X] Create_a_Simple_Calculator_using_a_switch_case.cpp
 
 5. Array Questions
 
